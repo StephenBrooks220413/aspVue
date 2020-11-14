@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "aspVue", "aspVue.njsproj", "{028CABBF-5B7D-4200-B11A-A98042F67A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028CABBF-5B7D-4200-B11A-A98042F67A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028CABBF-5B7D-4200-B11A-A98042F67A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028CABBF-5B7D-4200-B11A-A98042F67A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028CABBF-5B7D-4200-B11A-A98042F67A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5EEE401-C0D4-453B-82D7-F3FE5EB074A5}
+	EndGlobalSection
+EndGlobal
